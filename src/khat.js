@@ -1,4 +1,5 @@
 var express = require('express'), app = express.createServer();
+var jade = require('jade');
 
 app.set('views', __dirname + '/views');
 app.set('view engine', 'jade');
