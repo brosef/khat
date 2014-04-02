@@ -1,0 +1,13 @@
+{
+  "name" : "khat"
+, "version" : "0.0.1"
+, "repository":
+  { "type" : "git"
+  , "url" : "https://github.com/brosef/khat.git"
+  }
+, "dependencies":
+  { "express" : ""
+  , "jade" : ""
+  , "socket.io" : ""
+  }
+}
