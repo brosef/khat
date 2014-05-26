@@ -9,5 +9,8 @@
   { "express" : ""
   , "jade" : ""
   , "socket.io" : ""
+  , "underscore" : ""
+  , "backbone" : ""
+  , "redis" : ""
   }
 }
